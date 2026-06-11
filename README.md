@@ -1,0 +1,2 @@
+# TrafficGuard-AI-AI-POWERED-TRAFFIC-VIOLATION-DETECTION-ENFORCEMENT-SYSTEM-INDIA
+An AI-powered automated system to detect, log and enforce traffic violations in real-time using deep learning (YOLOv8), multi-object tracking (Deep SORT), and Automatic Number Plate Recognition (ANPR/OCR). The system generates automated e-challans, sends real-time alerts and provides actionable analytics to traffic authorities.
